@@ -32,3 +32,5 @@ After logging into the website by providing valid email id and password, the use
 The user can interact with the chatbot and find a suitable plan according to their need. The response time to the queries of the user will depend upon the internet speed of the user. 
 If the user has a good internet connection, he/she will get the answers to their queries in the 3-5 second. If the user has a bad internet connection, this process will take some time, which is estimated to be 4 seconds approximately. 
 But even in the worst case, the response time will not exceed 15 seconds.
+
+![Picture1](https://user-images.githubusercontent.com/18419203/54471036-6a185b80-47d8-11e9-8f47-ecaa3ad873ff.png)
