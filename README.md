@@ -33,4 +33,22 @@ The user can interact with the chatbot and find a suitable plan according to the
 If the user has a good internet connection, he/she will get the answers to their queries in the 3-5 second. If the user has a bad internet connection, this process will take some time, which is estimated to be 4 seconds approximately. 
 But even in the worst case, the response time will not exceed 15 seconds.
 
+DFD DIAGRAM
+LEVEL 0 
+
 ![Picture1](https://user-images.githubusercontent.com/18419203/54471036-6a185b80-47d8-11e9-8f47-ecaa3ad873ff.png)
+
+LEVEL 1
+
+![Picture2](https://user-images.githubusercontent.com/18419203/54471064-e6ab3a00-47d8-11e9-9e68-afbf1c32bb98.png)
+
+LEVEL 2
+
+![Picture3](https://user-images.githubusercontent.com/18419203/54471073-06426280-47d9-11e9-836a-fc9c194442a8.png)
+
+ER DIAGRAM
+
+![Capture](https://user-images.githubusercontent.com/18419203/54471077-40abff80-47d9-11e9-917d-6526fbcc27db.JPG)
+
+
+
