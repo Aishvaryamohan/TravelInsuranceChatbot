@@ -54,3 +54,9 @@ FUTURE ENHANCEMENT
 
 We will take the customer interaction to the next level by using 'voice assistant'
 
+
+MODULE SPLITUP
+
+1. Aishvarya Mohan - Created front end and training chatbot
+2. Martin - DB connectivity and training chatbot
+3. Divya - Training chatbot
