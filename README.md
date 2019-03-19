@@ -46,9 +46,7 @@ LEVEL 2
 
 ![Picture3](https://user-images.githubusercontent.com/18419203/54471073-06426280-47d9-11e9-836a-fc9c194442a8.png)
 
-ER DIAGRAM
 
-![Capture](https://user-images.githubusercontent.com/18419203/54471077-40abff80-47d9-11e9-917d-6526fbcc27db.JPG)
 
 FUTURE ENHANCEMENT
 
