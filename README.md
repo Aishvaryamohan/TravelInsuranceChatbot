@@ -7,13 +7,6 @@ All plans offer combined insurance and services which covers accident and all me
 Depending on the plan selected, other features and options are given.
 A website is created to access the Chatbot. 
 
-RELATED WORK
-
-The first Chatbot Eliza, was built in 1966 which was accessed via virtual assistants such as Google Assistant and Amazon Alexa or messaging apps such as Facebook Messenger or Wechat. 
-Chatbots are available in many fields to increase the customer interaction and to offer many additional ways for them.
-The top companies such as Reliance, Bajaj Allianz, HDFC ERGO has many travel insurance plans.
-The existing system gets connected to the customer service agent.
-
 PROPOSED APPROACH
 
 In order to overcome the problem in the existing system, we have built the Automated Travel Insurance Chatbot which provides information about the available policies in the system.
