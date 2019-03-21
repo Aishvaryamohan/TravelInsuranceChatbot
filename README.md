@@ -35,6 +35,6 @@ We will take the customer interaction to the next level by using 'voice assistan
 
 MODULE SPLITUP
 
-1. Aishvarya Mohan - Created front end and training chatbot
-2. Martin - DB connectivity and training chatbot
-3. Divya - Training chatbot
+1. Aishvarya Mohan - Created front end, DB connectivity and trained chatbot
+2. Martin - Created Login page and trained chatbot
+3. Divya - Trained chatbot
