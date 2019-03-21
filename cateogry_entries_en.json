@@ -1,0 +1,33 @@
+[
+  {
+    "value": "Indiviual",
+    "synonyms": [
+      "Indiviual",
+      "single"
+    ]
+  },
+  {
+    "value": "Student",
+    "synonyms": [
+      "Studend"
+    ]
+  },
+  {
+    "value": "Senior citizen",
+    "synonyms": [
+      "Senior citizen"
+    ]
+  },
+  {
+    "value": "Family",
+    "synonyms": [
+      "Family"
+    ]
+  },
+  {
+    "value": "Corporate",
+    "synonyms": [
+      "Corporate"
+    ]
+  }
+]
