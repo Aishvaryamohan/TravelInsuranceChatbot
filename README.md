@@ -1,6 +1,7 @@
 # AUTOMATED TRAVEL INSURANCE CHATBOT
 
 Chatbot is built using artificial intelligence that analyses queries and users messages. 
+
 The Automated Travel Insurance Chatbot is designed to engage customers in a dynamic conversation and help them choose travel insurance plan according to their category and need.
 All plans offer combined insurance and services which covers accident and all medical expenses, transportation expenses associated with medical evacuation. 
 Depending on the plan selected, other features and options are given.
