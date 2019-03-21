@@ -1,0 +1,68 @@
+[
+  {
+    "id": "28b6bcc4-77e5-4316-a38d-b728e945221f",
+    "data": [
+      {
+        "text": "plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dc22f52-f5bf-4b23-bb7d-1aec3f3cf964",
+    "data": [
+      {
+        "text": "need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b091b916-a285-4e97-a6b9-d32df67afaea",
+    "data": [
+      {
+        "text": "Insurance types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60643f23-5399-44ee-a259-bdf6b765f7e0",
+    "data": [
+      {
+        "text": "Insurance policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c252d46-6727-42b3-89ca-7749d7d1da5f",
+    "data": [
+      {
+        "text": "Insurance plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b1236e0-601f-4605-abae-5eae5ffa3f2f",
+    "data": [
+      {
+        "text": "I need a travel Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

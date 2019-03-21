@@ -1,0 +1,49 @@
+{
+  "id": "f5f929c4-4215-4764-9184-916004c0562f",
+  "parentId": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "rootParentId": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "name": "Family - Elite",
+  "auto": true,
+  "contexts": [
+    "Family-followup",
+    "family"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Family.Family-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Family-Elite-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This plan is selected for the persons who are travelling for more than 30 days.Press yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "af309dc1-baf8-4735-a60e-0b3406c0ad50",
+  "parentId": "d2bc2431-fd89-4f47-8d55-35d27fb2aa49",
+  "rootParentId": "d2bc2431-fd89-4f47-8d55-35d27fb2aa49",
+  "name": "Corporate - Elite",
+  "auto": true,
+  "contexts": [
+    "Corporate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Corporate.Corporate-custom-3",
+      "affectedContexts": [
+        {
+          "name": "Corporate-Elite-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "this is the type of insurance for the people for 20 - days. Press yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

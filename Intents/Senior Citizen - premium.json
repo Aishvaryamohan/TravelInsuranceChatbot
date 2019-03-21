@@ -1,0 +1,39 @@
+{
+  "id": "90bd52fa-259d-4f0c-adcb-69163e575c2a",
+  "parentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "rootParentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "name": "Senior Citizen - premium",
+  "auto": true,
+  "contexts": [
+    "SeniorCitizen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SeniorCitizen.SeniorCitizen-custom-2",
+      "affectedContexts": [
+        {
+          "name": "SeniorCitizen-premium-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is the type of insurance for more than 10 days., Enter Yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

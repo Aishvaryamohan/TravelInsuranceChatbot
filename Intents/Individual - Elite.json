@@ -1,0 +1,48 @@
+{
+  "id": "f4dcc353-50f1-4f4b-9f1c-36e32ace3a6d",
+  "parentId": "c534222e-dc21-4c0b-8e49-cbd448d20d23",
+  "rootParentId": "c534222e-dc21-4c0b-8e49-cbd448d20d23",
+  "name": "Individual - Elite",
+  "auto": true,
+  "contexts": [
+    "Individual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Individual.Individual-custom-3",
+      "affectedContexts": [
+        {
+          "name": "Individual-custom-3-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "you have selected plan where plan is people is travelling for more than 30 days.Press yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

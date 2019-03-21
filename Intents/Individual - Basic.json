@@ -1,0 +1,41 @@
+{
+  "id": "486f7f6a-efad-48af-84f2-0255aff8561d",
+  "parentId": "c534222e-dc21-4c0b-8e49-cbd448d20d23",
+  "rootParentId": "c534222e-dc21-4c0b-8e49-cbd448d20d23",
+  "name": "Individual - Basic",
+  "auto": true,
+  "contexts": [
+    "Individual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Individual.Individual-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Individual-custom-2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The basic plan is for the people who is travelling less than 10 days.Press yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

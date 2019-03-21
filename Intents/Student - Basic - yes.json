@@ -1,0 +1,47 @@
+{
+  "id": "c990d352-8f8c-449f-a49e-fe0b6725359e",
+  "parentId": "60486e90-3ffb-4783-9a9f-d6373b77b114",
+  "rootParentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "name": "Student - Basic - yes",
+  "auto": true,
+  "contexts": [
+    "Student-Basic-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Student.Student-custom.Student-Basic-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com/payments/u/0/home#"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The total amount to be paid is 5000"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

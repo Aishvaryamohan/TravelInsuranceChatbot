@@ -1,0 +1,39 @@
+{
+  "id": "0c8fd035-0f0f-4ecb-9966-ee4cc48b8116",
+  "parentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "rootParentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "name": "Student - Premium",
+  "auto": true,
+  "contexts": [
+    "Student-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Student.Student-custom",
+      "affectedContexts": [
+        {
+          "name": "Student-Premium-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is the type of plan which is suited for people for travelling more than 10 days .Enter yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

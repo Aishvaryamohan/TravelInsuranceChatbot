@@ -1,0 +1,33 @@
+{
+  "id": "693bde0b-c3d8-4432-99a0-2c78d8373e98",
+  "parentId": "60486e90-3ffb-4783-9a9f-d6373b77b114",
+  "rootParentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "name": "Student - Basic - no",
+  "auto": true,
+  "contexts": [
+    "Student-Basic-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Student.Student-custom.Student-Basic-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please go back and select the plan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531859391,
+  "fallbackIntent": false,
+  "events": []
+}

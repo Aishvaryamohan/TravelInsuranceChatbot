@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ce3450c3-852a-4ddd-9aeb-77f53c569bfd",
+    "data": [
+      {
+        "text": "Student and individual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8df0441a-e607-44c4-bd80-95dfca2450d7",
+    "data": [
+      {
+        "text": "Difference between student and individual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

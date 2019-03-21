@@ -1,0 +1,39 @@
+{
+  "id": "39c78797-f140-49ee-9abf-4d756571cad6",
+  "parentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "rootParentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "name": "Senior Citizen - Basic",
+  "auto": true,
+  "contexts": [
+    "SeniorCitizen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SeniorCitizen.SeniorCitizen-custom",
+      "affectedContexts": [
+        {
+          "name": "SeniorCitizen-Basic-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is for the people  who are travelling less than 10 days.PRESS YES TO CONTINUE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

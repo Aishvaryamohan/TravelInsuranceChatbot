@@ -1,0 +1,33 @@
+{
+  "id": "2a196013-b48c-40ef-beba-e7e1cae71693",
+  "parentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "rootParentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "name": "Senior Citizen - fallback",
+  "auto": false,
+  "contexts": [
+    "SeniorCitizen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SeniorCitizen.SeniorCitizen-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "enter plans to select another plan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4ce39ac6-40a3-4588-a707-3b7c9c343a66",
+  "parentId": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "rootParentId": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "name": "Family - Basic",
+  "auto": true,
+  "contexts": [
+    "Family-followup",
+    "family"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Family.Family-custom-3",
+      "affectedContexts": [
+        {
+          "name": "Family-Basic-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Basic plan is selected for people travelling for 7 to 10 days . Press yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

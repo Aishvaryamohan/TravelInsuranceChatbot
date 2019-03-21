@@ -1,0 +1,42 @@
+{
+  "id": "fabab490-5c52-4614-99e5-3e72354d0a9c",
+  "parentId": "f5f929c4-4215-4764-9184-916004c0562f",
+  "rootParentId": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "name": "Family - Elite - yes",
+  "auto": true,
+  "contexts": [
+    "Family-Elite-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Family.Family-custom-2.Family-Elite-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have selected pain plan. the total estimated amount is 7500"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

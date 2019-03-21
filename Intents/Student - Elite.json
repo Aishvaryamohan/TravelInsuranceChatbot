@@ -1,0 +1,33 @@
+{
+  "id": "0c7df048-700e-4df9-9de2-2b93cb7890e7",
+  "parentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "rootParentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "name": "Student - Elite",
+  "auto": true,
+  "contexts": [
+    "Student-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Student.Student-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is the plan for people who are travelling more than  30 days.ENTER YES TO CONTINUE"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

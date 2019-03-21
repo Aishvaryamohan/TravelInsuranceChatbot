@@ -1,0 +1,27 @@
+{
+  "id": "f7f86455-2411-4ce3-8921-d578c145c7f9",
+  "name": "Student_Ind",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The main difference between the student and individual are student will be having discounts than indivual and The student can be claimed only if they are studying"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

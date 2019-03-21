@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3a4de8da-04ab-49e5-bea2-7f98b90af17e",
+    "data": [
+      {
+        "text": "family",
+        "alias": "cateogry",
+        "meta": "@cateogry",
+        "userDefined": false
+      },
+      {
+        "text": " insurance plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "300fcc2e-e357-42bf-9cfa-1d4e5cef1c42",
+    "data": [
+      {
+        "text": "familly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44c39e39-a319-41ff-86ab-b3c584b795d8",
+    "data": [
+      {
+        "text": "Family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

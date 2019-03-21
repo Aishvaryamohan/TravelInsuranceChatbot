@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e0cc68b4-47b6-4d8d-b21b-7554caa5e09f",
+    "data": [
+      {
+        "text": "Elite Insurance plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fffd0f76-d110-458f-b372-21404dea7354",
+    "data": [
+      {
+        "text": "Elite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

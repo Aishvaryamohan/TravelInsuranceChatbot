@@ -1,0 +1,24 @@
+[
+  {
+    "id": "44937e78-c0c4-498c-9d4a-e701bbba2e62",
+    "data": [
+      {
+        "text": "Student plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9609bef5-e41f-42a2-89c2-306f095ecb0f",
+    "data": [
+      {
+        "text": "student",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

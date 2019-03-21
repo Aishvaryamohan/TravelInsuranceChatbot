@@ -1,0 +1,42 @@
+{
+  "id": "bdca75e7-d988-46f2-b9b7-8bc5d5e4567a",
+  "parentId": "39c78797-f140-49ee-9abf-4d756571cad6",
+  "rootParentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "name": "Senior Citizen - Basic - yes",
+  "auto": true,
+  "contexts": [
+    "SeniorCitizen-Basic-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SeniorCitizen.SeniorCitizen-custom.SeniorCitizen-Basic-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The total amount to be paid 4000"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

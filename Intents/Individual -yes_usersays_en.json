@@ -1,0 +1,24 @@
+[
+  {
+    "id": "245bf622-5d29-41fd-bf87-51e3ab2d6bf8",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44d5b73d-5fd0-4258-8a19-53df0f29b404",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

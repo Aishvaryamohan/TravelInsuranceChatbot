@@ -1,0 +1,42 @@
+{
+  "id": "f566bd34-ab94-4217-9ee2-37cccfb24717",
+  "parentId": "d6414b13-fae5-4316-a3ea-97c5f70035ee",
+  "rootParentId": "d2bc2431-fd89-4f47-8d55-35d27fb2aa49",
+  "name": "Corporate - premium - yes",
+  "auto": true,
+  "contexts": [
+    "Corporate-premium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Corporate.Corporate-custom.Corporate-premium-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Buy",
+          "url": "https://pay.google.com"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The total amount to be paid is 10000"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531867231,
+  "fallbackIntent": false,
+  "events": []
+}

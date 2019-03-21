@@ -1,0 +1,52 @@
+{
+  "id": "7eb008d0-c8fa-4895-9262-ed12fb3f4758",
+  "name": "What is travel inurance",
+  "auto": true,
+  "contexts": [
+    "what",
+    "travel",
+    "Insurance"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "what",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "travel",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "insyrance",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Insurance",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You might be traveling abroad for business or leisure, but on any such trip you are exposed to unfortunate events loss of passport, personal accident, medical emergencies, etc. During this situation you can claim money from your insurance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "651c70fa-6b79-4397-8287-d1c83dc393c4",
+  "parentId": "d2bc2431-fd89-4f47-8d55-35d27fb2aa49",
+  "rootParentId": "d2bc2431-fd89-4f47-8d55-35d27fb2aa49",
+  "name": "Corporate - basic",
+  "auto": true,
+  "contexts": [
+    "Corporate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Corporate.Corporate-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Corporate-basic-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is for the people who are travelling for 7-10 days, Press yes o continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

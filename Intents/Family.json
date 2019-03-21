@@ -1,0 +1,48 @@
+{
+  "id": "1afa3ff2-48c9-45b3-8947-6601af8caf6b",
+  "name": "Family",
+  "auto": true,
+  "contexts": [
+    "family"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "family",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Family-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "37b54850-f799-4bae-a119-d298605ba1e5",
+          "dataType": "@cateogry",
+          "name": "cateogry",
+          "value": "$cateogry",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is a type of insurance for a family ( Minimum 4) , This contains 3 plans ,. They are Basic , Premium, Elite"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8a176b06-3cba-41f5-97af-7bbea6e1c6e7",
+  "parentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "rootParentId": "4e3174c0-1c92-443b-ae5d-d9657d1f51f5",
+  "name": "Senior Citizen - Elite",
+  "auto": true,
+  "contexts": [
+    "SeniorCitizen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SeniorCitizen.SeniorCitizen-custom",
+      "affectedContexts": [
+        {
+          "name": "SeniorCitizen-Elite-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is the plan which is used for people for travelling more than 30 days.Please enter yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

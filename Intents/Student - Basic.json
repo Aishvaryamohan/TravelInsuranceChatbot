@@ -1,0 +1,39 @@
+{
+  "id": "60486e90-3ffb-4783-9a9f-d6373b77b114",
+  "parentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "rootParentId": "d32ea53b-bf57-4cf6-960b-ca17a7141f63",
+  "name": "Student - Basic",
+  "auto": true,
+  "contexts": [
+    "Student-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Student.Student-custom",
+      "affectedContexts": [
+        {
+          "name": "Student-Basic-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This is the type of insurance which is used when you are travelling less than 10 days.Enter yes to continue"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}
