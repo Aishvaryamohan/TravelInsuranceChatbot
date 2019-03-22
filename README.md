@@ -17,7 +17,6 @@ The user can interact with the chatbot and find a suitable plan according to the
 If the user has a good internet connection, he/she will get the answers to their queries in the 3-5 second. If the user has a bad internet connection, this process will take some time, which is estimated to be 4 seconds approximately. 
 But even in the worst case, the response time will not exceed 15 seconds.
 
-
 # FUTURE ENHANCEMENT
 
 We will take the customer interaction to the next level by using 'voice assistant'
@@ -32,17 +31,17 @@ We will take the customer interaction to the next level by using 'voice assistan
 # TASK SPLITUP
 
 Aishvarya
-# USER INTERFACE
+1. USER INTERFACE
 
 In this module, a login page is created where the user has to register by giving their credentials. After logging into the page, travel insurance page is opened which will provide all the information and benefits of the insurance. It also tells about the different plans available for buying the insurance.
 
 Divya
-# DATABASE CONNECTIVITY
+2. DATABASE CONNECTIVITY
 
 In this module, the username and password given by the user will be stored in an database and the connectivity is also given.
 
 Martin
-# CHATBOT TRAINED
+3. CHATBOT TRAINED
 
 The Chatbot is created using Dialogflow. The training of chatbot is done by giving different intents which covers all the neccessary details needed for getting an travel insurance
 
