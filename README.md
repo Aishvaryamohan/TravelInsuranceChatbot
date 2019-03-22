@@ -7,7 +7,7 @@ All plans offer combined insurance and services which covers accident and all me
 Depending on the plan selected, other features and options are given.
 A website is created to access the Chatbot. 
 
-PROPOSED APPROACH
+# PROPOSED APPROACH
 
 In order to overcome the problem in the existing system, we have built the Automated Travel Insurance Chatbot which provides information about the available policies in the system.
 The Chatbot will give immediate answers offering 24/7 support and can simultaneously have conversations with thousands of people.
@@ -16,7 +16,7 @@ It almost covers all the emergency and medical expenses.
 
 The Automated Travel Insurance Chatbot will take the query from the user and will give the appropriate answer to the user query. The user will just have to visit the web page of the Chatbot and interact with the bot to get the answers to their query.
 
-METHODOLOGY
+# METHODOLOGY
 
 The chatbot is built using Dialog flow. It is a Google service that runs on the Google Cloud Platform. It also incorporates Google's machine learning expertise and products such as Google Cloud Speech-to-Text. 
 We can connect with users on your website, mobile app, the Google Assistant, Amazon Alexa, Facebook Messenger, and other popular platforms and devices. 
@@ -28,13 +28,33 @@ If the user has a good internet connection, he/she will get the answers to their
 But even in the worst case, the response time will not exceed 15 seconds.
 
 
-FUTURE ENHANCEMENT
+# FUTURE ENHANCEMENT
 
 We will take the customer interaction to the next level by using 'voice assistant'
 
 
-MODULE SPLITUP
+# MODULE SPLITUP
 
-1. Aishvarya Mohan - Created front end, DB connectivity and trained chatbot
-2. Martin - Created Login page and trained chatbot
-3. Divya - Trained chatbot
+1. Chatbot creation
+2. User Interface
+3. Database Connectivity
+
+# TASK SPLITUP
+
+# Aishvarya
+# USER INTERFACE
+
+In this module, a login page is created where the user has to register by giving their credentials. After logging into the page, travel insurance page is opened which will provide all the information and benefits of the insurance. It also tells about the different plans available for buying the insurance.
+
+# Divya
+# DATABASE CONNECTIVITY
+
+In this module, the username and password given by the user will be stored in an database and the connectivity is also given.
+
+# Martin
+# CHATBOT TRAINED
+
+The Chatbot is created using Dialogflow. The training of chatbot is done by giving different intents which covers all the neccessary details needed for getting an travel insurance
+
+
+
