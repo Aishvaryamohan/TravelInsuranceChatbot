@@ -31,16 +31,19 @@ We will take the customer interaction to the next level by using 'voice assistan
 # TASK SPLITUP
 
 Aishvarya
+
 1. USER INTERFACE
 
 In this module, a login page is created where the user has to register by giving their credentials. After logging into the page, travel insurance page is opened which will provide all the information and benefits of the insurance. It also tells about the different plans available for buying the insurance.
 
 Divya
+
 2. DATABASE CONNECTIVITY
 
 In this module, the username and password given by the user will be stored in an database and the connectivity is also given.
 
 Martin
+
 3. CHATBOT TRAINED
 
 The Chatbot is created using Dialogflow. The training of chatbot is done by giving different intents which covers all the neccessary details needed for getting an travel insurance
@@ -53,5 +56,4 @@ The Chatbot is created using Dialogflow. The training of chatbot is done by givi
 
 # Project Status
 
-Completed(95%)
-Payment method integration remaining
+Completed(95%) - Payment method integration remaining
