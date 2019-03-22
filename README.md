@@ -1,20 +1,10 @@
 # AUTOMATED TRAVEL INSURANCE CHATBOT
 
-Chatbot is built using artificial intelligence that analyses queries and users messages. 
-
-The Automated Travel Insurance Chatbot is designed to engage customers in a dynamic conversation and help them choose travel insurance plan according to their category and need.
-All plans offer combined insurance and services which covers accident and all medical expenses, transportation expenses associated with medical evacuation. 
-Depending on the plan selected, other features and options are given.
-A website is created to access the Chatbot. 
+Chatbot is built using artificial intelligence that analyses queries and users messages. The Automated Travel Insurance Chatbot is designed to engage customers in a dynamic conversation and help them choose travel insurance plan according to their category and need. All plans offer combined insurance and services which covers accident and all medical expenses, transportation expenses associated with medical evacuation. Depending on the plan selected, other features and options are given. A website is created to access the Chatbot. 
 
 # PROPOSED APPROACH
 
-In order to overcome the problem in the existing system, we have built the Automated Travel Insurance Chatbot which provides information about the available policies in the system.
-The Chatbot will give immediate answers offering 24/7 support and can simultaneously have conversations with thousands of people.
-This is the easier approach for the users to answer all their queries.
-It almost covers all the emergency and medical expenses.
-
-The Automated Travel Insurance Chatbot will take the query from the user and will give the appropriate answer to the user query. The user will just have to visit the web page of the Chatbot and interact with the bot to get the answers to their query.
+In order to overcome the problem in the existing system, we have built the Automated Travel Insurance Chatbot which provides information about the available policies in the system. The Chatbot will give immediate answers offering 24/7 support and can simultaneously have conversations with thousands of people. This is the easier approach for the users to answer all their queries. It almost covers all the emergency and medical expenses. The Automated Travel Insurance Chatbot will take the query from the user and will give the appropriate answer to the user query. The user will just have to visit the web page of the Chatbot and interact with the bot to get the answers to their query.
 
 # METHODOLOGY
 
@@ -41,20 +31,28 @@ We will take the customer interaction to the next level by using 'voice assistan
 
 # TASK SPLITUP
 
-# Aishvarya
+Aishvarya
 # USER INTERFACE
 
 In this module, a login page is created where the user has to register by giving their credentials. After logging into the page, travel insurance page is opened which will provide all the information and benefits of the insurance. It also tells about the different plans available for buying the insurance.
 
-# Divya
+Divya
 # DATABASE CONNECTIVITY
 
 In this module, the username and password given by the user will be stored in an database and the connectivity is also given.
 
-# Martin
+Martin
 # CHATBOT TRAINED
 
 The Chatbot is created using Dialogflow. The training of chatbot is done by giving different intents which covers all the neccessary details needed for getting an travel insurance
 
+# TEAM MEMBERS
 
+1. Aishvarya M - 15csa01 - 711715104001
+2. Divya S - 15csa16 - 711715104016
+3. Martin J - 15csa37 - 711715104037
 
+# Project Status
+
+Completed(95%)
+Payment method integration remaining
