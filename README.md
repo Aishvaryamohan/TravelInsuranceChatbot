@@ -44,7 +44,7 @@ In this module, the username and password given by the user will be stored in an
 
 Martin
 
-3. CHATBOT TRAINED
+3. CHATBOT CREATION
 
 The Chatbot is created using Dialogflow. The training of chatbot is done by giving different intents which covers all the neccessary details needed for getting an travel insurance
 
