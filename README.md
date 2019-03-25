@@ -42,7 +42,7 @@ Divya
 
 In this module, the username and password given by the user will be stored in an database and the connectivity is also given.
 
-Martin & AISHVARYA
+Martin & Aishvarya
 
 CHATBOT TRAINING
 
