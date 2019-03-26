@@ -59,4 +59,4 @@ The Chatbot is created using Dialogflow. The training of chatbot is done by givi
 
 # Project Status
 
-Completed(95%) - Payment method integration remaining
+Completed(100%)
